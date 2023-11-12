@@ -1,3 +1,22 @@
+/*
+  File > Preferences > Additional Boards Manager URLs
+
+  Libraries to include for the ESP32:
+  https://dl.espressif.com/dl/package_esp32_index.json
+
+  Libraries to include for the ESP8266:
+  http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+  Tools > Boards > Board Manager
+  ESP32
+  ESP8266
+
+  reference: https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+  reference: https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/
+*/
+
+
+/*
     For the ESP-WROOM-32 select the following board
     ESP32 > LOLIN D32
 
