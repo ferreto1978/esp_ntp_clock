@@ -4,3 +4,5 @@ NTP Clock for the "NodeMcu ESP-32 with OLED"
 - LCD: 0.96″ OLED display.
 
 Created in Arduino sofwtare (v1.x - v2.x)
+
+![Screenshot](Demo.jpg)
